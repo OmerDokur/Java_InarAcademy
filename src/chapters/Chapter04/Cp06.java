@@ -15,6 +15,14 @@ public class Cp06 {
 		String str3= str.concat(str2);
 		
 		System.out.println(str3);
+		
+		System.out.println(str+ str2);
+		
+		System.out.println(str.toUpperCase());
+		System.out.println(str.toLowerCase());
+		
+		str = "       itsnotgood         ";
+		System.out.println(str);
 
 		
 		
