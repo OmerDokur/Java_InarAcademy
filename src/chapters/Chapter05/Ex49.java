@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ex49 {
 
 	public static void main(String[] args) {
-		//Count vowels and consonants
+		//String
 		
 		Scanner input = new Scanner(System.in);
 		  System.out.print("Enter a string:");
@@ -34,7 +34,7 @@ public class Ex49 {
 		 
 		  System.out.println("The number of vowels is " + numberOfVowel);
 		  System.out.println("The number of consonants is " + numberOfCon);
-
-	}
+		 
+		 }
 
 }

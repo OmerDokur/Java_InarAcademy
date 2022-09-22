@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ex50 {
 
 	public static void main(String[] args) {
-		//Count uppercase letters
+		//String
 		
 		Scanner input = new Scanner(System.in);
 		  System.out.print("Enter a string:");
